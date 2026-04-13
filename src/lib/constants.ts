@@ -1,6 +1,6 @@
 export const SITE = {
   name: "Sarvjot Singh",
-  role: "Aspiring AI Engineer",
+  role: "AI Engineer",
   email: "sarvjot@sginformatics.com",
   github: "https://github.com/sarvjot23",
   linkedin: "https://www.linkedin.com/in/sarvjot/",
@@ -17,7 +17,7 @@ export const NAV_LINKS = [
 
 export const HERO_CODE = `const sarvjot = {
   name: "Sarvjot Singh",
-  role: "Aspiring AI Engineer",
+  role: "AI Engineer",
   education: "B.Tech CSE",
   focus: [
     "LLM Integration",
@@ -93,6 +93,15 @@ export const LEARNING_JOURNEY = [
 
 export const PROJECTS = [
   {
+    title: "Notion Voice Productivity Assistant",
+    description: "An AI-driven assistant to boost productivity by integrating voice commands with Notion.",
+    tags: ["AI", "Productivity", "Voice Assistant"],
+    github: "https://github.com/sarvjot23/notion-voice-productivity-assistant",
+    demoEmbed: "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7440021848597102592?compact=1",
+    demoUrl: "https://www.linkedin.com/posts/sarvjot_aiengineering-voiceai-llms-ugcPost-7440021848597102592-60Qw",
+    comingSoon: false,
+  },
+  {
     title: "AI Workflow Automation Suite",
     description: "End-to-end AI-powered automation platform combining n8n workflows with LLM intelligence for business process optimization.",
     tags: ["n8n", "OpenAI API", "Python", "Webhooks"],
@@ -102,12 +111,6 @@ export const PROJECTS = [
     title: "Multi-Model Chat Interface",
     description: "Unified chat application supporting multiple LLM providers — switch between OpenAI, Anthropic, and local models seamlessly.",
     tags: ["Next.js", "TypeScript", "Ollama", "Multi-LLM"],
-    comingSoon: true,
-  },
-  {
-    title: "Voice-Enabled AI Agent",
-    description: "Conversational AI agent with voice input/output capabilities, tool use, and persistent memory for contextual interactions.",
-    tags: ["Agentic AI", "TTS/STT", "LangChain", "React"],
     comingSoon: true,
   },
 ];
