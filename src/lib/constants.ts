@@ -97,8 +97,8 @@ export const PROJECTS = [
     description: "An AI-driven assistant to boost productivity by integrating voice commands with Notion.",
     tags: ["AI", "Productivity", "Voice Assistant"],
     github: "https://github.com/sarvjot23/notion-voice-productivity-assistant",
-    demoEmbed: "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7440021848597102592?compact=1",
-    demoUrl: "https://www.linkedin.com/posts/sarvjot_aiengineering-voiceai-llms-ugcPost-7440021848597102592-60Qw",
+    demoEmbed: "https://www.youtube.com/embed/WIBS2A1U7mo",
+    demoUrl: "https://youtu.be/WIBS2A1U7mo",
     comingSoon: false,
   },
   {
