@@ -17,9 +17,9 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Sarvjot Singh | Aspiring AI Engineer",
+  title: "Sarvjot Singh | AI Engineer",
   description:
-    "Portfolio of Sarvjot Singh — Aspiring AI Engineer specializing in LLM integration, AI automation workflows, and agentic AI systems.",
+    "Portfolio of Sarvjot Singh — AI Engineer specializing in LLM integration, AI automation workflows, and agentic AI systems.",
   keywords: ["AI Engineer", "LLM", "n8n", "Automation", "Next.js", "Portfolio"],
 };
 
